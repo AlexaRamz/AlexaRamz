@@ -1,4 +1,6 @@
 ## Hi there 👋
+### 🚀 About Me
+I am Alexandra Ramirez, a **Game Developer** and **Software Engineer** pursuing a Bachelors in **Computer Science**.
 
 <!--
 **AlexaRamz/AlexaRamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
