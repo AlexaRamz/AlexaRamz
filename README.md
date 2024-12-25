@@ -1,6 +1,6 @@
 ## Hey there 👋
 ### 🚀 About Me
-Welcome to my profile! I’m a Computer Science student who is passionate about **Game Development** and **Web Development**.
+Welcome to my profile! I’m a **Computer Science** student who is passionate about **Game Development** and **Web Development**.
 ## 🔧Things I work with
 * Unreal Engine 5 (C++, Blueprints)
 * Unity (C#)
@@ -8,7 +8,6 @@ Welcome to my profile! I’m a Computer Science student who is passionate about 
 * CSS
 * Javascript
 * Python
-
 <!--
 **AlexaRamz/AlexaRamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
