@@ -1,6 +1,13 @@
-## Hi there 👋
+## Hey there 👋
 ### 🚀 About Me
-I am Alexandra Ramirez, a **Game Developer** and **Software Engineer** pursuing a Bachelors in **Computer Science**.
+Welcome to my profile! I’m a Computer Science student who is passionate about **Game Development** and **Web Development**.
+## 🔧Things I work with
+* Unreal Engine 5 (C++, Blueprints)
+* Unity (C#)
+* HTML
+* CSS
+* Javascript
+* Python
 
 <!--
 **AlexaRamz/AlexaRamz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
