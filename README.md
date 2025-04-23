@@ -25,7 +25,7 @@ Welcome to my profile! I’m a **Computer Science** student who is passionate ab
 ### Back-end
 * [ZotStreaming](https://github.com/AlexaRamz/cs122a-zotstreaming) - MySQL database manager
 ### Full-stack
-* Netflix clone (Coming May)
+* Netflix clone (Coming June)
 
 ## ⭐ More cool projects
 * [Search Engine](https://github.com/AlexaRamz/cs121-search-engine)
